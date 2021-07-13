@@ -1,0 +1,17 @@
+{
+  "name": "codare-api",
+  "version": "1.0.1",
+  "description": "Codare Discord Sunucusunun Websitesinden Veri Çekmek İçin Yazılmış Bir API Paketi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "codare"
+  ],
+  "author": "SpongeBed",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
